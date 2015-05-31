@@ -1,0 +1,24 @@
+
+
+1. Print out a list of all 3-letter ISO country codes in alphabetical order, all uppercase, one per line.
+
+OrderCountries.php
+
+
+
+
+2. Invert the order of letters in the words of a string
+
+invert_order.php
+
+
+
+
+3. Find the longest increasing subsequence of an array of integers
+
+longest.php
+
+
+4. Function to tell whether a binary search tree is balanced.
+
+I didn't manage to do it.
