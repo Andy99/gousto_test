@@ -5,13 +5,9 @@
 OrderCountries.php
 
 
-
-
 2. Invert the order of letters in the words of a string
 
 invert_order.php
-
-
 
 
 3. Find the longest increasing subsequence of an array of integers
