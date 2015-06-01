@@ -24,7 +24,6 @@ function lis($n) {
             $node->back = $pileTops[$i-1];
         $pileTops[$i] = $node;
     }
-    echo count($pileTops);exit();
     $result = array();
     for ($node = count($pileTops) ? $pileTops[count($pileTops)-1] : NULL;
          $node != NULL; $node = $node->back)
@@ -34,6 +33,5 @@ function lis($n) {
 }
  
 print_r(lis(array(3, 2, 6, 4, 5, 1)));
-//echo "<br>";
-//print_r(lis(array(0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15)));
+
 ?>
